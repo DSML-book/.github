@@ -19,15 +19,15 @@ The purpose of this book is to provide an accessible, yet comprehensive textbook
 
 
 #### Citation
-Please cite the first edition as follows:
+In bibtex, please cite the first edition as follows:
 
 ```bibtex
 @book{kroese2019dsml,
   title     = {Data Science and Machine Learning: Mathematical and Statistical Methods},
-  author    = {Dirk P. Kroese and Zdravko I. Botev and Thomas Taimre and Radislav Vaisman},
+  author    = {D.P. Kroese and Z.I. Botev and T. Taimre and R. Vaisman},
   year      = {2019},
-  publisher = {CRC Press},
-  isbn      = {9781138492530}
+  publisher = {Chapman & Hall/CRC},
+  address = {Boca Raton}
 }
 ```
 
