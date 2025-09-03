@@ -10,6 +10,6 @@
 
 # PDFs
 
-## [🐞 Errata](https://github.com/DSML-book/Errata/errata.pdf) - Corrections from the first edition
+## [🐞 Errata](https://github.com/DSML-book/Errata/master/errata.pdf) - Corrections from the first edition
 
 ## [✅ Solutions](https://github.com/DSML-book/Odd-Numbered-Solutions) - Solutions for odd-numbered questions from the first edition
