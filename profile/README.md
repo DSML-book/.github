@@ -41,12 +41,15 @@ Please cite the first edition as follows:
 
 ## PDFs
 
-### [📖 Book](https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf) - Complete first edition.
+### [📖 Book](https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf) - Complete first edition
 
 ### [🐞 Errata](https://github.com/DSML-book/Errata/blob/master/errata.pdf) - Corrections for the first edition
 
-## [✅ Solutions](https://github.com/DSML-book/Odd-numbered-Solutions/blob/master/solutions_odd.pdf) - Solutions for odd-numbered questions of the first edition
+### [✅ Solutions](https://github.com/DSML-book/Odd-numbered-Solutions/blob/master/solutions_odd.pdf) - Solutions for odd-numbered questions of the first edition
 
+<br>
+
+## [🏠 Home Page]( https://people.smp.uq.edu.au/DirkKroese/DSML/) - Additional resources
 
 <br><br>
 ## How to Download a Repository
@@ -76,7 +79,7 @@ In the terminal or Git Bash, run:
 git clone https://github.com/DSML-book/Programs.git
 ```
 
-This will create a folder named `Programs` with all the files.
+This will create a folder named `Programs` with all the files in the Programs repository.
 
 ---
 
