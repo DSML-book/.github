@@ -1,6 +1,6 @@
-## Welcome to the GitHub site for the book
+## Welcome to the GitHub site for:
 **_Data Science and Machine Learning: Mathematical and Statistical Methods_**  
-by **Dirk P. Kroese**, **Zdravko Botev**, **Thomas Taimre**, and **Radislav Vaisman**
+by **Dirk P. Kroese**, **Zdravko I. Botev**, **Thomas Taimre**, and **Radislav Vaisman**
 
 The purpose of this book is to provide an accessible, yet comprehensive textbook intended for students interested in gaining a better understanding of the mathematics and statistics that underpin the rich variety of ideas and machine learning algorithms in data science.
 
