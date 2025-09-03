@@ -17,8 +17,19 @@ The purpose of this book is to provide an accessible, yet comprehensive textbook
 - The **first edition** of this book is available **free of charge** for educational purposes or self-study. You are welcome to download the PDF, provided that you give due acknowledgement to the source.  
 - The **second edition** is coming soon! [Click here for details and updates](https://www.routledge.com/Data-Science-and-Machine-Learning-Mathematical-and-Statistical-Methods-Second-Edition/Botev-Kroese-Taimre/p/book/9781032488684?srsltid=AfmBOorD509k15hLWyM9t5NVfaP9Zc2jCHIsoIwJbZ40XDwCMxuWMUDT)
 
-If you wish to use this book for educational purposes or self-study, you are welcome to download the PDF free of charge, provided that you give due acknowledgement to the source.
 
+#### Citation
+Please cite the first edition as follows:
+
+```bibtex
+@book{kroese2019dsml,
+  title     = {Data Science and Machine Learning: Mathematical and Statistical Methods},
+  author    = {Dirk P. Kroese and Zdravko I. Botev and Thomas Taimre and Radislav Vaisman},
+  year      = {2019},
+  publisher = {CRC Press},
+  isbn      = {9781138492530}
+}
+```
 
 ## Repositories
 
@@ -35,3 +46,42 @@ If you wish to use this book for educational purposes or self-study, you are wel
 ### [🐞 Errata](https://github.com/DSML-book/Errata/blob/master/errata.pdf) - Corrections for the first edition
 
 ## [✅ Solutions](https://github.com/DSML-book/Odd-numbered-Solutions/blob/master/solutions_odd.pdf) - Solutions for odd-numbered questions of the first edition
+
+
+<br><br>
+## How to Download a Repository
+
+### 1. Install Git
+If you don’t have Git installed, download and install it from:
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+- **Windows**: During installation, select **"Git Bash"** when prompted. This will allow you to use Git commands easily.
+- **macOS**: You can install Git via [Homebrew](https://brew.sh/) with:
+  ```bash
+  brew install git
+  ```
+- **Linux**: Use your package manager, for example:
+  ```bash
+  sudo apt-get install git
+  ```
+
+### 2. Open Git Bash (Windows) or Terminal (macOS/Linux)
+After installation:
+- On **Windows**, search for **Git Bash** in the Start menu and open it.
+- On **macOS/Linux**, open your Terminal.
+
+### 3. Clone the Repository
+In the terminal or Git Bash, run:
+```bash
+git clone https://github.com/DSML-book/Programs.git
+```
+
+This will create a folder named `Programs` with all the files.
+
+---
+
+### Alternative: Download ZIP File
+If you don’t want to use Git, you can also download the ZIP file:
+- Go to [https://github.com/DSML-book/Programs](https://github.com/DSML-book/Programs)
+- Click the green **Code** button → **Download ZIP**
+- Extract the ZIP file to your desired location.
