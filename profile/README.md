@@ -1,6 +1,5 @@
 <img src="46953828.png" alt="DSML" width="180" align="left" />
 
-# Data Science and Machine Learning
 
 <br clear="left" />
 
