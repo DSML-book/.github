@@ -1,4 +1,9 @@
 
+# 📘 Data Science and Machine Learning
+
+Welcome to the GitHub organization for the book  
+**_Data Science and Machine Learning: Mathematical and Statistical Methods_**  
+by Dirk P. Kroese, Zdravko Botev, Thomas Taimre, and Radislav Vaisman.
 
 # Repositories
 
@@ -10,7 +15,7 @@
 
 # PDFs
 
-## [📖 Book](https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf) - Complete corrected first edition.
+## [📖 Book](https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf) - Complete first edition.
 
 ## [🐞 Errata](https://github.com/DSML-book/Errata/blob/master/errata.pdf) - Corrections for the first edition
 
