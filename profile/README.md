@@ -2,6 +2,7 @@
 ## 💻 Programs
 Python code from the book are available in DSML-book/Programs 
 
-## Projects
+## Repositories
 
-- Programs
+- [Programs](https://github.com/DSML-book/Programs) — Python code from the book
+
