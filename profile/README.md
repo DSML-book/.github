@@ -1,5 +1,8 @@
+<img src="46953828.png" alt="DSML" width="180" align="left" />
 
-# 📘 Data Science and Machine Learning
+# Data Science and Machine Learning
+
+<br clear="left" />
 
 Welcome to the GitHub organization for the book  
 **_Data Science and Machine Learning: Mathematical and Statistical Methods_**  
