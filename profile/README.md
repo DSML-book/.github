@@ -15,7 +15,7 @@ The purpose of this book is to provide an accessible, yet comprehensive textbook
 
 📢 **Good news!**  
 - The **first edition** of this book is available **free of charge** for educational purposes or self-study. You are welcome to download the PDF, provided that you give due acknowledgement to the source.  
-- The **second edition** is coming soon! [Click here for details and updates](https://www.routledge.com/Data-Science-and-Machine-Learning-Mathematical-and-Statistical-Methods-Second-Edition/Botev-Kroese-Taimre/p/book/9781032488684?srsltid=AfmBOorD509k15hLWyM9t5NVfaP9Zc2jCHIsoIwJbZ40XDwCMxuWMUDT)
+- The **second edition** is out now (20 November, 2025)! [Click here for details and updates](https://www.routledge.com/Data-Science-and-Machine-Learning-Mathematical-and-Statistical-Methods-Second-Edition/Botev-Kroese-Taimre/p/book/9781032488684?srsltid=AfmBOorD509k15hLWyM9t5NVfaP9Zc2jCHIsoIwJbZ40XDwCMxuWMUDT)
 
 
 #### Citation
@@ -30,6 +30,17 @@ In bibtex, please cite the first edition as follows:
   address = {Boca Raton}
 }
 ```
+and the second edition as:
+
+```bibtex
+@book{botev2025dsml,
+  title     = {Data Science and Machine Learning: Mathematical and Statistical Methods},
+  author    = {Z.I. Botev and D.P. Kroese and T. Taimre},
+  edition   = {Second},
+  year      = {2025},
+  publisher = {Chapman & Hall/CRC},
+  address = {Boca Raton}
+}
 
 ## Repositories
 
@@ -76,15 +87,15 @@ After installation:
 ### 3. Clone the Repository
 In the terminal or Git Bash, run:
 ```bash
-git clone https://github.com/DSML-book/Programs.git
+git clone https://github.com/DSML-book/Programs2e.git
 ```
 
-This will create a folder named `Programs` with all the files in the Programs repository.
+This will create a folder named `Programs2e` with all the files for the second edition situated in the Programs2e repository.
 
 ---
 
 ### Alternative: Download ZIP File
 If you don’t want to use Git, you can also download the ZIP file:
-- Go to [https://github.com/DSML-book/Programs](https://github.com/DSML-book/Programs)
+- Go to [https://github.com/DSML-book/Programs2e](https://github.com/DSML-book/Programs2e)
 - Click the green **Code** button → **Download ZIP**
 - Extract the ZIP file to your desired location.
