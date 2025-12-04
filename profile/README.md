@@ -47,6 +47,8 @@ and the second edition as:
 
 ### [💻 Programs](https://github.com/DSML-book/Programs) — Python code for the first edition
 
+### [💻 Programs](https://github.com/DSML-book/Programs2e) — Python code for the second edition
+
 ### [🎓 Lectures](https://github.com/DSML-book/Lectures) - Lecture slides for the first edition
 
 
